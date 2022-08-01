@@ -8,6 +8,7 @@ In this repository I report my work on BeagleBone AI board from Texas Instrument
 
 - [General Information](#general-information)
 - [Board Firmware](#board-firmware)
+- [Flashing eMMC](#flashing-emmc)
 - [Connenct to Network](#connect-to-network)
 - [Updating Board OS and examples](#updating-board-os-and-examples)
 - [Bluetooth Connection](#bluetooth-connection)
